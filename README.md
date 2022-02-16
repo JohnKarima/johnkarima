@@ -26,10 +26,8 @@
 - Connect with me:
   <a href="https://www.linkedin.com/in/john-karima-b3406119b">
   <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/></a>
-  <a href="https://twitter.com/johnkarima4">
-  <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png"/>
-  </a>
   <a href="https://www.instagram.com/karimacharia/?hl=en">
-  <img height="25" src="https://cdn4.iconfinder.com/data/icons/twitter-29/512/169_Network_Social_Twitter-512.png"/>
-  </a>
-- Or reach me on [email](karimajohn24@gmail.com).
+  <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png"/></a>
+  <a href="https://twitter.com/johnkarima4">
+  <img height="25" src="https://cdn4.iconfinder.com/data/icons/twitter-29/512/169_Network_Social_Twitter-512.png"/></a>
+- Or email me: <karimajohn24@gmail.com>.
