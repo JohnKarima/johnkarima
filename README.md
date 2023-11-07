@@ -8,9 +8,9 @@
 
 - Check out some of my **Projects**:
 
-  - [📰 NewsHub](https://newshub-montez.herokuapp.com/)
+  - [📰 AkanNames](https://johnkarima.github.io/week-2-IP/)
   - [📚 WordHunt](https://cocky-raman-9babb1.netlify.app/)
-  - [📷 InstaClone](https://instaclone343.herokuapp.com/)
+  - [🦠 CoronaTracker](https://johnkarima.github.io/corona-tracker/)
   - [🔍Github Finder](https://github-finder-2-johnkarima.vercel.app/)
 
 - Proficiencies:
