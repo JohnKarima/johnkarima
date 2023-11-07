@@ -2,7 +2,6 @@
 
 ## I'm John Karima and I'm a Full-Stack Web Developer.
 
-![Profile views](https://gpvc.arturio.dev/johnkarima)
 
 - I work with **Django** and **React** to create web-apps and websites.
 
