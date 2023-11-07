@@ -10,7 +10,7 @@
   - [📰 AkanNames](https://johnkarima.github.io/week-2-IP/)
   - [📚 WordHunt](https://cocky-raman-9babb1.netlify.app/)
   - [🦠 CoronaTracker](https://johnkarima.github.io/corona-tracker/)
-  - [🔍Github Finder](https://github-finder-2-johnkarima.vercel.app/)
+  - [🔍 Github Finder](https://github-finder-2-johnkarima.vercel.app/)
 
 - Proficiencies:
 
