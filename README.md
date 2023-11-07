@@ -7,8 +7,8 @@
 
 - Check out some of my **Projects**:
 
-  - [📰 AkanNames](https://johnkarima.github.io/week-2-IP/)
   - [📚 WordHunt](https://cocky-raman-9babb1.netlify.app/)
+  - [📰 AkanNames](https://johnkarima.github.io/week-2-IP/)
   - [🦠 CoronaTracker](https://johnkarima.github.io/corona-tracker/)
   - [🔍 Github Finder](https://github-finder-2-johnkarima.vercel.app/)
 
